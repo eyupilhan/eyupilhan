@@ -4,22 +4,22 @@
 
 I'm a Cloud & DevOps Engineer with hands-on experience building AWS infrastructure, automating deployments, and implementing CI/CD pipelines using modern DevOps tools.
 
-Currently, I am expanding my expertise in Salesforce DevOps while continuing to strengthen my Cloud and DevOps engineering skills.
+Currently, I am expanding my expertise in Salesforce DevOps while continuing to strengthen my skills in cloud infrastructure, automation, and platform engineering.
 
 ---
 
 ## Tech Stack
 
-* AWS
-* Docker
-* Kubernetes
-* Terraform
-* Jenkins
-* Ansible
-* Linux
-* Git & GitHub
-* Python
-* Prometheus & Grafana
+- AWS
+- Terraform
+- Docker
+- Kubernetes
+- Jenkins
+- Ansible
+- Linux
+- Git & GitHub
+- Python
+- Prometheus & Grafana
 
 ---
 
