@@ -2,9 +2,9 @@
 
 ## Cloud & DevOps Engineer
 
-I am a Cloud & DevOps Engineer with a strong interest in cloud infrastructure, automation, Infrastructure as Code (IaC), CI/CD, and container orchestration.
+I'm a Cloud & DevOps Engineer with hands-on experience building AWS infrastructure, automating deployments, and implementing CI/CD pipelines using modern DevOps tools.
 
-After transitioning into IT, I built hands-on experience through AWS and DevOps projects and continue to expand my skills by learning modern DevOps practices and Salesforce DevOps.
+Currently, I am expanding my expertise in Salesforce DevOps while continuing to strengthen my Cloud and DevOps engineering skills.
 
 ---
 
@@ -23,40 +23,40 @@ After transitioning into IT, I built hands-on experience through AWS and DevOps 
 
 ---
 
-## Featured Projects
+### 📂 Featured Projects
 
-* **AWS DevOps Capstone Project**
+#### AWS DevOps Capstone Project
 
-  * Highly available AWS architecture
-  * Auto Scaling, ALB, EC2, RDS
-  * S3, Lambda, DynamoDB, CloudFront, Route 53
+* Highly available AWS architecture
+* Auto Scaling, ALB, EC2, RDS
+* S3, Lambda, DynamoDB, CloudFront, Route 53
 
-* **Petclinic Microservices**
+#### Petclinic Microservices
 
-  * Kubernetes
-  * Jenkins CI/CD
-  * Terraform
-  * Monitoring with Prometheus & Grafana
+* Jenkins CI/CD
+* Kubernetes deployments
+* Terraform infrastructure
+* Monitoring with Prometheus & Grafana
 
-* **Terraform AWS Docker Instance**
+#### Terraform AWS Docker Instance
 
-  * Infrastructure as Code
-  * EC2 provisioning
-  * Docker automation
+* Infrastructure as Code (IaC)
+* Automated EC2 provisioning
+* Docker deployment
 
-* **Jenkins Pipeline Project**
+#### Jenkins Pipeline Project
 
-  * CI/CD automation
-  * Pipeline as Code
-  * Automated deployments
+* Pipeline as Code
+* CI/CD automation
+* Automated application deployment
 
 ---
 
-## Currently Learning
+### 🌱 Currently Learning
 
 * Salesforce DevOps
-* Release Management
 * GitOps Practices
+* Release Automation
 * Cloud Architecture
 
 ---
