@@ -1,46 +1,38 @@
 # Hi, I'm Eyüp İlhan 👋
 
-## Cloud & DevOps Engineer
+## ☁️ Cloud & DevOps Engineer
 
-I am passionate about building scalable cloud infrastructure, automating deployments, and implementing modern DevOps practices.
+I'm a Cloud & DevOps Engineer with hands-on experience designing AWS infrastructure, automating deployments, and implementing CI/CD pipelines using modern DevOps tools.
 
-Currently focusing on:
-
-- ☁️ AWS Cloud
-- ⚙️ Terraform (Infrastructure as Code)
-- 🚀 CI/CD with Jenkins & GitHub
-- 🐳 Docker
-- ☸️ Kubernetes
-- 🔧 Ansible
-- 📊 Prometheus & Grafana
+My primary focus is building scalable, secure, and automated cloud environments. I'm currently expanding my expertise in **Salesforce DevOps** while continuing to strengthen my skills in cloud infrastructure, automation, and platform engineering.
 
 ---
 
-## Tech Stack
+## 🚀 Tech Stack
 
 ### Cloud
-
 AWS • EC2 • VPC • ALB • Auto Scaling • RDS • S3 • Lambda • DynamoDB • CloudFront • Route 53 • IAM
 
 ### DevOps
-
 Terraform • Jenkins • Docker • Kubernetes • Ansible • Git • GitHub
 
-### Programming
+### Programming & Scripting
+Python • JavaScript • Bash • SQL
 
-Python • JavaScript • Node.js • React • Java • Bash
+### Monitoring
+Prometheus • Grafana
 
 ---
 
-# Featured Projects
+# 📂 Featured Projects
 
-### AWS DevOps Capstone
+### 🚀 AWS DevOps Capstone Project
 
 Production-inspired AWS infrastructure deploying a highly available Django application using:
 
 - Amazon VPC
 - EC2
-- Auto Scaling
+- Auto Scaling Group
 - Application Load Balancer
 - RDS
 - S3
@@ -53,36 +45,47 @@ Production-inspired AWS infrastructure deploying a highly available Django appli
 
 ---
 
-### Petclinic Microservices
+### ☸️ Petclinic Microservices
 
-End-to-end DevOps implementation of the Spring Petclinic microservices platform using Kubernetes, Jenkins, Terraform, Docker, Ansible, Prometheus and Grafana.
+End-to-end DevOps implementation of the Spring Petclinic Microservices platform using:
+
+- Kubernetes
+- Jenkins
+- Terraform
+- Docker
+- Ansible
+- Prometheus
+- Grafana
 
 🔗 https://github.com/eyupilhan/petclinic-microservices
 
 ---
 
-### CI/CD Todo Application
+### ⚙️ CI/CD Todo Application
 
-Multi-container Todo application deployed with Jenkins, Terraform, Docker, Ansible and Amazon ECR.
+Multi-container Todo application deployed using:
+
+- Jenkins
+- Terraform
+- Docker
+- Ansible
+- Amazon ECR
 
 🔗 https://github.com/eyupilhan/cw-todo-app
 
 ---
 
-## Currently Learning
+## 🌱 Currently Learning
 
-- AWS Well-Architected Framework
+- Salesforce DevOps
+- GitOps
 - Amazon EKS
 - GitHub Actions
-- Advanced Kubernetes
-- Salesforce DevOps
+- Platform Engineering
 
 ---
 
-## Connect with Me
+## 📫 Connect with Me
 
-- LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
+- LinkedIn: https://linkedin.com/in/eyupilhan
 - GitHub: https://github.com/eyupilhan
-
----
-⭐ Thanks for visiting my profile!
