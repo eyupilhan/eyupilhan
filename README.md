@@ -1,69 +1,67 @@
 # Hi, I'm Eyüp İlhan 👋
 
-## DevOps Engineer | AWS | Kubernetes | Terraform | Jenkins | CI/CD
+## Cloud & DevOps Engineer
 
-I'm a DevOps Engineer passionate about cloud infrastructure, automation, container orchestration, and modern software delivery practices.
+I am a Cloud & DevOps Engineer with a strong interest in cloud infrastructure, automation, Infrastructure as Code (IaC), CI/CD, and container orchestration.
 
-### 🚀 Core Technologies
+After transitioning into IT, I built hands-on experience through AWS and DevOps projects and continue to expand my skills by learning modern DevOps practices and Salesforce DevOps.
+
+---
+
+## Tech Stack
 
 * AWS
-* Kubernetes
 * Docker
+* Kubernetes
 * Terraform
 * Jenkins
 * Ansible
 * Linux
 * Git & GitHub
-* Prometheus & Grafana
 * Python
+* Prometheus & Grafana
 
-### 🔧 Areas of Interest
+---
 
-* Cloud Infrastructure
-* CI/CD Automation
+## Featured Projects
+
+* **AWS DevOps Capstone Project**
+
+  * Highly available AWS architecture
+  * Auto Scaling, ALB, EC2, RDS
+  * S3, Lambda, DynamoDB, CloudFront, Route 53
+
+* **Petclinic Microservices**
+
+  * Kubernetes
+  * Jenkins CI/CD
+  * Terraform
+  * Monitoring with Prometheus & Grafana
+
+* **Terraform AWS Docker Instance**
+
+  * Infrastructure as Code
+  * EC2 provisioning
+  * Docker automation
+
+* **Jenkins Pipeline Project**
+
+  * CI/CD automation
+  * Pipeline as Code
+  * Automated deployments
+
+---
+
+## Currently Learning
+
+* Salesforce DevOps
 * Release Management
-* Infrastructure as Code (IaC)
-* Container Orchestration
-* Monitoring & Observability
-* Salesforce DevOps
+* GitOps Practices
+* Cloud Architecture
 
-### 📂 Featured Projects
+---
 
-#### Microservices Platform on AWS & Kubernetes
-
-* CI/CD pipelines using Jenkins
-* Kubernetes deployments
-* Terraform-based infrastructure
-* Monitoring with Prometheus & Grafana
-
-#### Kubernetes Phonebook
-
-* Dockerized microservices application
-* Kubernetes Deployments & Services
-* Persistent Volumes (PV) and Persistent Volume Claims (PVC)
-* MySQL backend
-
-#### AWS Blog Application
-
-* AWS EC2, ALB, Auto Scaling Groups
-* RDS, S3, Lambda, DynamoDB
-* CloudFront & Route53
-
-#### Bookstore API
-
-* Flask REST API
-* Docker & Docker Compose
-* Terraform on AWS EC2
-* MySQL integration
-
-### 🌱 Currently Learning
-
-* Salesforce DevOps
-* Release Automation
-* Git Flow & Deployment Strategies
-* Cloud Architecture Best Practices
-
-### 📫 Connect With Me
+## Connect with Me
 
 * LinkedIn: https://linkedin.com/in/eyupilhan
 * GitHub: https://github.com/eyupilhan
